@@ -18,7 +18,9 @@ Navbar: Navigation bar for quick access to different sections of the app.
 📂 File Structure
 
 src
+
 │
+
 ├── App.js            # Main component rendering all routes
 
 ├── Layout.js         # Layout component for the homepage
