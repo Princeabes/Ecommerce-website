@@ -20,8 +20,13 @@ Navbar: Navigation bar for quick access to different sections of the app.
 src
 │
 ├── App.js            # Main component rendering all routes
+
 ├── Layout.js         # Layout component for the homepage
+
 ├── ProductDetails.js # Displays product details and allows adding to cart
+
 ├── CartDetails.js    # Displays cart items and allows managing them
+
 ├── Navbar.js         # Navigation bar component
+
 └── styles.css        # Basic styles for the application
